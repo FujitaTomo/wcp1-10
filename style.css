@@ -232,7 +232,11 @@ nav{
 .contact-box-2{
 	width: 400px;
 	float:left;
-	text-align: center;
+	text-align: left;
+}
+.contact-mail-tell{
+	width: 150px;
+	margin-left: 160px;
 }
 .mail,.tell,.sns{
 	margin-bottom: 5px;
@@ -304,7 +308,6 @@ footer{
 	.portfolio-text{
 		padding: 0 5%;
 	}
-	
 	.portfolio-image{
 		width:300px;
 	}
@@ -384,7 +387,7 @@ footer{
 	.contact-box-2{
 		width: 100%;
 		float: none;
-		text-align: center;
+		text-align: left;
 	}
 	.number{
 		margin-bottom: 20px;
@@ -394,5 +397,4 @@ footer{
 		text-align: center;
 		float: none;
 	}
-	
-}	
+}
