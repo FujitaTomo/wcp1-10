@@ -235,8 +235,8 @@ nav{
 	text-align: left;
 }
 .contact-mail-tell{
-	width: 150px;
-	margin-left: 160px;
+	width: 128px;
+	margin:0 auto;
 }
 .mail,.tell,.sns{
 	margin-bottom: 5px;
@@ -250,9 +250,13 @@ nav{
 .number{
 	color: #000000;
 }
+.sns-box{
+	width: 200px;
+	margin: 0 auto;
+}
 .contact-box-3{
 	width: 400px;
-	text-align: center;
+	text-align: left;
 	float: left;
 }
 .sns-icon-box{
@@ -260,6 +264,7 @@ nav{
 	font-size: 50px;
 	float: left;
 	color: #000000;
+	
 }
 
 .fa-twitter{
